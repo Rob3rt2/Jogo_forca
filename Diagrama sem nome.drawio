@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T14:33:52.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="619FpSliyQcStJiojnN7" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T14:34:07.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="B5MMc8YGpnPYWtk1dY0m" version="21.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,9 +23,9 @@
             <mxGeometry x="150" y="110" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Sistema" placeholders="1" name="Variable" id="MmP6Ixc0t41t1bowls4w-7">
+        <UserObject label="Computador" placeholders="1" name="Variable" id="MmP6Ixc0t41t1bowls4w-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="600" y="110" width="120" height="40" as="geometry" />
+            <mxGeometry x="580" y="110" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="MmP6Ixc0t41t1bowls4w-12" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
